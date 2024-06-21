@@ -31,9 +31,16 @@ a {
     display: inline-block;
     padding: 10px 20px;
     background-color: #f5ce20;
-    color: #e99638;
+    color: #e7820e;
     text-decoration: none;
     font-size: 15px;
+    font-weight:bold;
     margin-top: 20px;
     border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    max-width: 130px;
+    display: block;
+    margin: 20px auto 0;
+
 }
